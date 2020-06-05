@@ -1,0 +1,21 @@
+{
+  "name": "node_js_scrpits",
+  "version": "1.0.0",
+  "description": "Integrate RingCentral SMS API to send SMS messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Souren Khetcho",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^3.6.0",
+    "deep-affects": "^0.1.7",
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.9",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "2.0.0",
+    "ringcentral": "^3.2.2",
+    "twilio": "^3.43.0"
+  }
+}
