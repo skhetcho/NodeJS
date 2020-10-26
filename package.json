@@ -12,6 +12,8 @@
     "@google-cloud/speech": "^3.6.0",
     "deep-affects": "^0.1.7",
     "dotenv": "^8.2.0",
+    "excel4node": "^1.7.2",
+    "google-distance": "^1.0.1",
     "google-spreadsheet": "^3.0.9",
     "node-fetch": "^2.6.1",
     "puppeteer": "2.0.0",
