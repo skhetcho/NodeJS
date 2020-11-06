@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/speech": "^3.6.0",
+    "csv-writer": "^1.6.0",
     "deep-affects": "^0.1.7",
     "dotenv": "^8.2.0",
     "excel4node": "^1.7.2",
